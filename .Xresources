@@ -1,0 +1,20 @@
+! font settings
+*.font: xft:terminus:style=Regular:size=12
+*.boldFont: xft:terminus:style=Regular:size=12
+*.italicFont: xft:terminus:style=Regular:size=12
+*.boldItalicFont: xft:terminus:style=Regular:size=12
+
+!#	##   ##  #######  ##  ##  ##    ##  #######
+!#	##   ##  ##   ##    ##     #    #      #
+!#	##   ##  ##  #      ##      #  #       #
+!#	#######  ##   ##  ##  ##     ##        #
+
+! urxvt settings
+URxvt.termName: rxvt-unicode-256color
+URxvt.scrollBar: false
+URxvt.scrollbar_right: false
+URxvt.transparent: false
+!URxvt.shading: 16
+URxvt.internalBorder: 0
+URxvt.depth: 25
+URxvt.cursorBlink: true
